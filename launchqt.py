@@ -65,7 +65,7 @@ def selsneak():
     os.system("python selsneak.py")
 
 def openthedoc():
-    os.system("google-chrome-stable bonk.pdf &> /dev/null") 
+    os.system("Start \"\" bonk.pdf")
     
 class Window(QWidget):
     def __init__(self):
