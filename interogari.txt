@@ -1,0 +1,25 @@
+QUERRY TIME
+
+1. Afisati stocul sneakers vanduti de supplier 3.
+2. Afisati toti sneakers de la Nike si Air Jordan.
+3. Gasiti toate perechile de sneakers de marimea citita de la tastatura cu brandul citit de la tastatura.
+4. Sortati supplieri crescator dupa reducerea la 4 perechi, apoi descrescator dupa nume.
+5.  Inserati un brand cu toate datele citite de la tastatura.
+	Inserati un sneaker cu toate datele citite de la tastatura.
+	Inserati sneakerul in stoc cu toate datele citite de la tastatura.
+6. Calculati media preturilor sneakers fara atributul deadstock.
+7. Gasiti sneakerul cel mai ieftin cu marimea si brandul citit de la tastatura, cu atributul deadstock.
+8! Gasiti cel mai ieftin si cel mai scump sneaker vandut de un supplier cu numele citit de la tastatura, afisati detalii despre sneaker si calculati-le pretul total, dupa aplicarea reducerii.
+9. Gasiti toti supplieri(nume) care vand sneakers de la brandul citit de la tastatura.
+10. Gasiti de la care alt supplier(nume) isi ia sneakers supplierul cu numele citit de la tastatura.
+
+Puma
+7
+about.puma.com
+RS-Dreamer J. Cole
+Black
+220
+1
+9.5
+1
+1
