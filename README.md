@@ -1,4 +1,4 @@
-# bonk
+# at-database
 
 Personal database / school project I used to learn MySQL and Qt
 
